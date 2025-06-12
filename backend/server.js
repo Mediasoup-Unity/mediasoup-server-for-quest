@@ -419,13 +419,13 @@ connections.on('connection', async socket => {
           listenInfos: [
             {
               protocol: 'udp',
-              ip: '0.0.0.0', // replace with relevant IP address
-              announcedAddress: '192.168.1.138' //IP DE WINDOWS
+              ip: '0.0.0.0',
+              announcedAddress: '192.168.1.138' // replace with relevant IP address
             },
             {
               protocol: 'tcp',
-              ip: '0.0.0.0', // replace with relevant IP address
-              announcedAddress: '192.168.1.138'
+              ip: '0.0.0.0',
+              announcedAddress: '192.168.1.138' // replace with relevant IP address
             }
           ],
           maxIncomingBitrate: 1500000
