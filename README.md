@@ -5,6 +5,9 @@ Este proyecto es una **aplicación básica de videollamadas** construida con [me
 
 **Importante**: Para ejecutar esta aplicación, es necesario o bien ejecutarlo desde maquina virtual en Windows (por ejemplo VirtualBox) con la opción de red "Conectado a: Adaptador puente" o bien desde Linux nativo.
 
+**Usar en combinación a la aplicación [Unity Project](https://github.com/Mediasoup-Unity/Unity-Project.git)** 
+**Al ser un prototipo puede dar bastantes errores**
+
 ## Características
 
 - Conexión a salas de videollamada mediante WebRTC y mediasoup.
