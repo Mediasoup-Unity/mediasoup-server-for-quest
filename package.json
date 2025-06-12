@@ -7,10 +7,9 @@
   "scripts": {
     "dev:backend": "nodemon backend/server.js",
     "dev:frontend": "vite frontend",
-    "dev": "concurrently --raw \"pnpm run dev:backend\" \"pnpm run dev:frontend\"",
+    "start": "concurrently --raw \"pnpm run dev:backend\" \"pnpm run dev:frontend\"",
     "build": "vite build frontend",
-    "preview": "vite preview frontend",
-    "start": "node backend/server.js"
+    "preview": "vite preview frontend"
   },
   "keywords": [],
   "author": "",
