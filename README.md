@@ -35,7 +35,7 @@ Este proyecto es una **aplicación básica de videollamadas** construida con [me
    pnpm start
    ```
 
-4. Accede a la aplicación en tu navegador:
+4. Accede a la aplicación en tu navegador (si estas usando la opción de VirtualBox, es más sencillo acceder desde un navegador en Windows para no tener que configurar nada):
    ```
    https://<IP>:5173
    ```
