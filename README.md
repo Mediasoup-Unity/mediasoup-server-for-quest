@@ -32,7 +32,7 @@ Este proyecto es una **aplicación básica de videollamadas** construida con [me
 
 3. Inicia el servidor:
    ```sh
-   pnpm dev
+   pnpm start
    ```
 
 4. Accede a la aplicación en tu navegador:
